@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.matrix7095.bigwaveplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.matrix7095.bigwaveplugin.MyBundle
 
 class MyApplicationService {
 
